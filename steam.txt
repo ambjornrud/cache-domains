@@ -1,5 +1,5 @@
 lancache.steamcontent.com
-# 357189930.osl.cdn77.com
+357189930.osl.cdn77.com
 # *.osl.cdn77.com
-*.cdn77.com
+# *.cdn77.com
 # *.com
