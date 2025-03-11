@@ -1,4 +1,5 @@
 lancache.steamcontent.com
+httpforever.com
 357189930.osl.cdn77.com
 # *.osl.cdn77.com
 # *.cdn77.com
